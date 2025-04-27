@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning GenAI.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
-- 📫 How to reach me: suresh.dataman@gmail.com
+- 📫 How to reach me: manoj.r90@gmail.com
 - 💭 Quote: PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE 
 - 🥅 2024 Goals: To be more productive and successful 
 - ⚡ Fun fact: I'm graduate IT engineer
@@ -44,7 +44,7 @@ Show ❤️ By Starring My <a href='https://github.com/manojr90?tab=repositories
 
 <h4 align="left">
     <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/manojr90/">
-        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sureshkrishna linkedin" width="24px" />
+        <a href="https://www.linkedin.com/in/manojrawat1990/">
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Manoj Rawat linkedin" width="24px" />
     </a>
 </h4> 
